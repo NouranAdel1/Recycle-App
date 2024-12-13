@@ -18,18 +18,15 @@ The Recycle Page is a Flutter-based application designed to encourage recycling 
 ## Screenshots
 Below are some screenshots showcasing the app's interface:
 
-| **Home Screen**                 | **Recycle Options**            |
-|---------------------------------|--------------------------------|
-| ![Home Screen]("C:\Users\hp\Desktop\1.jpg") | ![Recycle Options]("C:\Users\hp\Desktop\3.jpg") |
+| **Home Screen**                                | **Recycle Options**                             |
+|------------------------------------------------|------------------------------------------------|
+| <img src="screenshots/1.jpg" alt="Home Screen" width="300"> | <img src="screenshots/3.jpg" alt="Recycle Options" width="300"> |
 
-| **Points Page**               | **Voucher Page**                |
-|---------------------------------|--------------------------------|
-| ![Articles Page]("C:\Users\hp\Desktop\2.jpg") | ![Events Page]("C:\Users\hp\Desktop\4.jpg") |
-
-
+| **Points Page**                                | **Voucher Page**                                |
+|------------------------------------------------|------------------------------------------------|
+| <img src="screenshots/2.jpg" alt="Points Page" width="300"> | <img src="screenshots/4.jpg" alt="Voucher Page" width="300"> |
 
 ---
-
 
 ## Built With
 - **Flutter**: Cross-platform UI toolkit for mobile, web, and desktop apps.
@@ -44,6 +41,7 @@ Below are some screenshots showcasing the app's interface:
 
 ## Future Enhancements
 - **Backend Integration**: Add server-side functionality to manage user data, recycling stats, and points.
+
 ---
 
 Thank you for supporting sustainability! 🌍
